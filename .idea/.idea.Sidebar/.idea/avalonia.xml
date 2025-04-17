@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="Sidebar/Views/HomePage.axaml" value="Sidebar.Browser/Sidebar.Browser.csproj" />
+        <entry key="Sidebar/Views/HomePageView.axaml" value="Sidebar.Browser/Sidebar.Browser.csproj" />
+        <entry key="Sidebar/Views/MainView.axaml" value="Sidebar.Desktop/Sidebar.Desktop.csproj" />
+        <entry key="Sidebar/Views/MainWindow.axaml" value="Sidebar.Browser/Sidebar.Browser.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
