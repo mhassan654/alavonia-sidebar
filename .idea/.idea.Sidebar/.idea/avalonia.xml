@@ -3,6 +3,9 @@
   <component name="AvaloniaProject">
     <option name="projectPerEditor">
       <map>
+        <entry key="Sidebar/App.axaml" value="Sidebar.Browser/Sidebar.Browser.csproj" />
+        <entry key="Sidebar/Assets/Icons.axaml" value="Sidebar.Browser/Sidebar.Browser.csproj" />
+        <entry key="Sidebar/Views/ButtonPageView.axaml" value="Sidebar.Browser/Sidebar.Browser.csproj" />
         <entry key="Sidebar/Views/HomePage.axaml" value="Sidebar.Browser/Sidebar.Browser.csproj" />
         <entry key="Sidebar/Views/HomePageView.axaml" value="Sidebar.Browser/Sidebar.Browser.csproj" />
         <entry key="Sidebar/Views/MainView.axaml" value="Sidebar.Desktop/Sidebar.Desktop.csproj" />

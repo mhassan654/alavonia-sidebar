@@ -1,6 +1,6 @@
 namespace Sidebar.ViewModels;
 
-public class HomePageViewModel
+public class HomePageViewModel:ViewModelBase
 {
     
 }

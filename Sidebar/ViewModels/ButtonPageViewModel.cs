@@ -1,6 +1,6 @@
 namespace Sidebar.ViewModels;
 
-public class ButtonPageViewModel
+public class ButtonPageViewModel:ViewModelBase
 {
     
 }
